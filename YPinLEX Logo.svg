@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1603.04 537.17">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Frutiger-BoldItalic, Frutiger;
+        font-size: 100.35px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-4 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        font-size: 144.95px;
+        letter-spacing: .02em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Frutiger-BlackCn, 'Frutiger 77 Black Condensed';
+        font-weight: 800;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        font-size: 156.1px;
+      }
+
+      .cls-7 {
+        fill: #e42d26;
+      }
+
+      .cls-8 {
+        letter-spacing: .05em;
+      }
+
+      .cls-9 {
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-7" d="M268.59,537.17C120.25,537.17,0,416.92,0,268.59S120.25,0,268.59,0s268.59,120.25,268.59,268.59c-.11,148.29-120.3,268.47-268.59,268.59ZM268.59,47.16c-122.35-.06-221.58,99.08-221.63,221.43-.06,122.35,99.08,221.58,221.43,221.63,122.35.06,221.58-99.08,221.63-221.43,0-.03,0-.07,0-.1-.11-122.26-99.17-221.36-221.43-221.53Z"/>
+    <rect class="cls-7" x="128.36" y="187.28" width="276.39" height="49.03" rx="1.97" ry="1.97"/>
+    <rect class="cls-7" x="128.36" y="295.13" width="276.39" height="49.03" rx="1.97" ry="1.97"/>
+    <text class="cls-3" transform="translate(566.6 199.06)"><tspan class="cls-4" x="0" y="0">L</tspan><tspan class="cls-8" x="83.67" y="0">e</tspan><tspan class="cls-9" x="174.51" y="0">xington</tspan></text>
+    <text class="cls-2" transform="translate(566.6 349.7)"><tspan x="0" y="0">Urban League</tspan></text>
+    <text class="cls-1" transform="translate(564.24 460.02)"><tspan class="cls-6" x="0" y="0">Y</tspan><tspan class="cls-5" x="63.22" y="0">oung Professionals</tspan></text>
+  </g>
+</svg>
